@@ -41,7 +41,7 @@
 </details>
 
 
-## Trending Agentic RAG Projects
+## Open-source Agentic RAG Projects
 
 <details>
   

@@ -9,16 +9,16 @@
   
 <summary> Predefined Reasoning </summary>
 
-|   Date   |     Approaches     |      Strategy      |                                                                                     Paper                                                                                      |
-|:--------:|:------------------:|:------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| 2024-07  |     RAGate         |   Route-based      | [Adaptive Retrieval-Augmented Generation for Conversational Systems](https://arxiv.org/pdf/2407.21712)                                                                         |
-| 2024     |    Self-Route      |   Route-based      | [Retrieval-Augmented Generation or Long-Context LLMs? A Comprehensive Study and Hybrid Approach](https://arxiv.org/abs/2407.16833)                                             |
-| 2023     |     Self-RAG       |   Loop-based       | [Self-RAG: Learning to Retrieve, Generate, and Critique Through Self-Reflection](https://arxiv.org/abs/2310.11511)                                                              |
-| 2024     |      CRAG          |   Loop-based       | [Corrective Retrieval-Augmented Generation](https://arxiv.org/abs/2402.13133)                                                                                                   |
-| 2024     |     RAPTOR         |   Tree-based       | [RAPTOR: Recursive Abstractive Processing for Tree-organized Retrieval](https://arxiv.org/abs/2403.00657)                                                                       |
-| 2025     |    MCTS-RAG        |   Tree-based       | [MCTS-RAG: Enhancing Retrieval-Augmented Generation with Monte Carlo Tree Search](https://arxiv.org/abs/2502.10564)                                                             |
-| 2024     |   Adaptive-RAG     | Hybrid-modular     | [Adaptive-RAG: Learning to Adapt Retrieval-Augmented LLMs Through Question Complexity](https://arxiv.org/abs/2401.05247)                                                       |
-| 2024     |   Modular-RAG      | Hybrid-modular     | [Modular-RAG: Transforming RAG Systems into LEGO-like Reconfigurable Frameworks](https://arxiv.org/abs/2401.05861)                                                             |
+|   Date     |     Approaches     |      Strategy      |                                                                                     Paper                                                                                      |
+|:----------:|:------------------:|:------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| 2024-07    |     RAGate         |   Route-based      | [Adaptive Retrieval-Augmented Generation for Conversational Systems](https://arxiv.org/pdf/2407.21712)                                                                         |
+| 2024       |    Self-Route      |   Route-based      | [Retrieval-Augmented Generation or Long-Context LLMs? A Comprehensive Study and Hybrid Approach](https://arxiv.org/abs/2407.16833)                                             |
+| 2023       |     Self-RAG       |   Loop-based       | [Self-RAG: Learning to Retrieve, Generate, and Critique Through Self-Reflection](https://arxiv.org/abs/2310.11511)                                                              |
+| 2024       |      CRAG          |   Loop-based       | [Corrective Retrieval-Augmented Generation](https://openreview.net/pdf?id=JnWJbrnaUE)                                                                                                   |
+| 2024-01    |     RAPTOR         |   Tree-based       | [RAPTOR: Recursive Abstractive Processing for Tree-organized Retrieval](https://openreview.net/forum?id=GN921JHCRw)                                                                       |
+| 2025       |    MCTS-RAG        |   Tree-based       | [MCTS-RAG: Enhancing Retrieval-Augmented Generation with Monte Carlo Tree Search](https://arxiv.org/abs/2502.10564)                                                             |
+| 2024       |   Adaptive-RAG     | Hybrid-modular     | [Adaptive-RAG: Learning to Adapt Retrieval-Augmented LLMs Through Question Complexity](https://arxiv.org/abs/2401.05247)                                                       |
+| 2024       |   Modular-RAG      | Hybrid-modular     | [Modular-RAG: Transforming RAG Systems into LEGO-like Reconfigurable Frameworks](https://arxiv.org/abs/2401.05861)                                                             |
 
 </details>
 

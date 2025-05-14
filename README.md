@@ -39,3 +39,41 @@
 | 2025-04     |  DeepResearcher    |  Training-based    | [DeepResearcher: Scaling Deep Research via RL in Real-World Environments](https://arxiv.org/abs/2504.03160)                                                                   |
 
 </details>
+
+
+## Trending Agentic RAG Projects
+
+<details>
+  
+<summary> Predefined Reasoning </summary>
+
+- [RAGate](https://github.com/wangxieric/RAGate) - Route-based adaptive reasoning with confidence-aware retrieval.
+- [self-RAG](https://github.com/AkariAsai/self-rag) - Loop-based reflection framework for self-improving retrieval and generation.
+- [CRAG](https://github.com/HuskyInSalt/CRAG) - Introduces corrective retrieval cycles based on chunk confidence assessment.
+- [MCTS-RAG](https://github.com/yale-nlp/MCTS-RAG) - Integrates Monte Carlo Tree Search into RAG for structured reasoning.
+- [RAPTOR](https://github.com/parthsarthi03/raptor) - Recursive abstraction over document trees for better summarization and retrieval.
+- [Adaptive-RAG](https://github.com/starsuzi/Adaptive-RAG) - Modular workflow allowing routing based on query complexity and uncertainty.
+- [DeepSearcher](https://github.com/zilliztech/deep-searcher) - Industrial system integrating vector search and LLM for RAG pipelines.
+- [RAGFlow](https://github.com/infiniflow/ragflow) - Scalable RAG orchestration in enterprise applications.
+- [Haystack](https://github.com/deepset-ai/haystack) - Modular open-source framework for building production-ready RAG systems.
+- [Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) - Integrates LangChain and ChatGLM with adaptive or agentic control.
+- [LightRAG](https://github.com/HKUDS/LightRAG) - Lightweight RAG pipeline for practical applications.
+- [R2R](https://github.com/SciPhi-AI/R2R) - High-complexity agentic reasoning for retrieval-intensive tasks.
+- [FlashRAG](https://github.com/RUC-NLPIR/FlashRAG) - Fast RAG framework optimized for medium-complexity enterprise workloads.
+  
+</details>
+
+<details>
+  
+<summary> Agentic Reasoning </summary>
+
+- [ReAct](https://github.com/ysymyth/ReAct) - Prompt-based agentic framework using Thought-Action-Observation format.
+- [Self-Ask](https://github.com/ofirpress/self-ask) - Prompts LLMs to break complex questions into sub-questions.
+- [Search-O1](https://github.com/sunnynexus/Search-o1) - Agentic search-enhanced reasoning with long-context support.
+- [Search-R1](https://github.com/PeterGriffinJin/Search-R1) - RL-trained LLM learns dynamic search policy for reasoning tasks.
+- [R1-Searcher](https://github.com/RUCAIBox/R1-Searcher) - Two-stage RL framework with retrieval and format-aware rewards.
+- [ReZero](https://github.com/menloresearch/ReZero) - RL framework encouraging retry after failed search attempts.
+- [DeepRetrieval](https://github.com/pat-jj/DeepRetrieval) - Optimizes query rewriting through retrieval-based RL in real engines.
+- [DeepResearcher](https://github.com/GAIR-NLP/DeepResearcher) - Web-scale RL agent that plans, retrieves, and synthesizes information in the wild.
+
+</details>
